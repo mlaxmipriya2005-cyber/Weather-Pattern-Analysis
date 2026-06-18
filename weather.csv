@@ -1,0 +1,8 @@
+Date,Temperature,Humidity,Rainfall,Condition
+2026-06-01,32,60,0,Sunny
+2026-06-02,30,65,5,Rainy
+2026-06-03,31,55,0,Sunny
+2026-06-04,29,70,10,Rainy
+2026-06-05,33,50,0,Sunny
+2026-06-06,28,75,12,Rainy
+2026-06-07,34,45,0,Sunny
